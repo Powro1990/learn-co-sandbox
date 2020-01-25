@@ -1,3 +1,7 @@
+var friends = document.querySelector('#friends')
+friends.innerHTML = parseInt(friends.innerHTML) +1
+var friends = document.querySelector('#friends')
+friends.innerHTML = parseInt(friends.innerHTML) +1
 Hi! 👋
 
 You've opened the IDE Sandbox. 🎉
